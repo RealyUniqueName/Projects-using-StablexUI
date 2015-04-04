@@ -1,5 +1,4 @@
-# Projects-using-StablexUI
-List of released projects using StablexUI
+# Projects using StablexUI
 
 
 
