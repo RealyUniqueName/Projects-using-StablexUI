@@ -8,3 +8,11 @@
 | D.R.I.V.E.   | Drag racing with pceudo 3D | Flash | no site | [Ok.ru](http://ok.ru/game/drive) [Vk.com](http://vk.com/drive.racing)
 | HeartBeat | Arkanoid | Flash, Html5, Android, Windows | no site | [Amazon (Android)](http://www.amazon.com/gp/product/B00UAZ8IZY) [Kongregate](http://www.kongregate.com/games/nibb13/heartbeat) [Amazon (Windows)](http://www.amazon.com/gp/product/B00UF1TR12) [Newgrounds](http://www.newgrounds.com/portal/view/654815)
 | Deer Sprint | Runner, platformer | Flash, Html5, Android, Windows | no site | [Amazon (Android)](http://www.amazon.com/gp/product/B00U61GXL8) [Kongregate](http://www.kongregate.com/games/nibb13/deer-sprint) [Amazon (Windows)](http://www.amazon.com/gp/product/B00UF1TR12) [Newgrounds](http://www.newgrounds.com/portal/view/654814)
+
+
+
+
+Projects made for jams:
+| Title             | Description       | Targets           | Links
+| ----------------- | ----------------- | ----------------- | --------------------------
+| Coder | Anti-tetris | Flash, Html5 | Flash, Html5, Linux | [Newgrounds](http://www.newgrounds.com/portal/view/616444) [LudumDare](http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=20479)
