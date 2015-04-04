@@ -8,6 +8,7 @@
 | D.R.I.V.E.   | Drag racing with pceudo 3D | Flash | no site | [Ok.ru](http://ok.ru/game/drive) [Vk.com](http://vk.com/drive.racing)
 | HeartBeat | Arkanoid | Flash, Html5, Android, Windows | no site | [Amazon (Android)](http://www.amazon.com/gp/product/B00UAZ8IZY) [Kongregate](http://www.kongregate.com/games/nibb13/heartbeat) [Amazon (Windows)](http://www.amazon.com/gp/product/B00UF1TR12) [Newgrounds](http://www.newgrounds.com/portal/view/654815)
 | Deer Sprint | Runner, platformer | Flash, Html5, Android, Windows | no site | [Amazon (Android)](http://www.amazon.com/gp/product/B00U61GXL8) [Kongregate](http://www.kongregate.com/games/nibb13/deer-sprint) [Amazon (Windows)](http://www.amazon.com/gp/product/B00UF1TR12) [Newgrounds](http://www.newgrounds.com/portal/view/654814)
+| Ludo Simulado | Educational game | Android | [Ludo Educativo](http://portal.ludoeducativo.com.br/pt/) | [Google Play](https://play.google.com/store/apps/details?id=br.com.ludoeducativo)
 
 
 
